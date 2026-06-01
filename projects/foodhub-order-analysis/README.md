@@ -18,7 +18,7 @@ Data science is only as powerful as the operational instincts driving it. This a
 *   **Closing the Feedback Loop:** Identifying the 38.8 percent engagement gap in unrated orders prompted a strategic operational push for automated post-delivery rating prompts to hold restaurants accountable.
 
 ### The Result
-Earning a flawless 4.3333 GPA, this analysis proves what happens when raw operational intuition is backed by Python and ruthless inferential statistics.
+The department leadership and program management team fully embraced the project, holding its insights and recommendations in high regard and noting that the work significantly exceeded exceptional standards. Proof of what happens when raw operational intuition is backed by Python and ruthless inferential statistics.
 
 ### The Stack
 **Languages:** Python
