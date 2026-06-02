@@ -1,6 +1,6 @@
 # e-News Express: Architecting Subscriber Growth
 
-> 📓 **[View the full notebook, rendered →](https://nbviewer.org/github/alif-tx/portfolio/blob/main/projects/enews-express-ab-test/enews_express_ab_test.ipynb)**
+> 📓 **[View the full notebook, rendered →](https://nbviewer.org/github/alif-tx/portfolio/blob/main/projects/enews-express-ab-test/eNews%20Express%20A-B%20Test%20Files/enews_express_ab_test.ipynb)**
 
 Aesthetics do not dictate user acquisition. Mathematical certainty does. This repository contains a complete inferential statistics pipeline engineered for e-News Express, a digital media platform fighting stagnant growth. Trusting a frontend redesign on faith alone creates massive vulnerability. This analysis strips away executive guesswork, deploying strict parametric testing and predictive modeling to separate the actual impact of the new layout from random sample variance. It ensures global deployment decisions are backed by absolute proof.
 
