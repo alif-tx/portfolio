@@ -1,6 +1,6 @@
 # FoodHub Analytics: Ungapping the Customer Experience
 
-> 📓 **[View the full notebook, rendered →](https://nbviewer.org/github/alif-tx/portfolio/blob/main/projects/foodhub-order-analysis/FoodHub%20Order%20Analysis%20Files/foodhub_order_analysis.ipynb)**
+> 📓 **[View the full notebook, rendered →](https://github.com/alif-tx/portfolio/blob/main/projects/foodhub-order-analysis/FoodHub%20Order%20Analysis%20Files/foodhub_order_analysis.ipynb)**
 
 Raw operational data does not lie. It exposes exactly where a business bleeds efficiency and where it actually prints money. This repository houses a relentless Exploratory Data Analysis executed for FoodHub, a digital aggregator struggling with logistical blind spots. Waiting for stakeholders to guess what is broken is not in my DNA. This project forces the truth to the surface using rigorous statistical validation, proving exactly how to optimize delivery times, capture lost revenue, and ruthlessly scale the customer experience.
 
