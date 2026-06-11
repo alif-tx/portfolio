@@ -21,6 +21,6 @@ Data science is only as powerful as the operational instincts driving it. This a
 The department leadership and program management team fully embraced the project, holding its insights and recommendations in high regard and noting that the work significantly exceeded exceptional standards. Proof of what happens when raw operational intuition is backed by Python and ruthless inferential statistics.
 
 ### The Stack
-**Languages:** Python
-**Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn
+**Languages:** Python  
+**Libraries:** Pandas, NumPy, SciPy, Matplotlib, Seaborn  
 **Core Competencies:** Exploratory Data Analysis (EDA), Mean Imputation, Welch T-Testing, Feature Engineering, Data Storytelling
